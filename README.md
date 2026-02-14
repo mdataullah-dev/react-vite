@@ -1,2 +1,0 @@
-# react-vite
-Learning React 
