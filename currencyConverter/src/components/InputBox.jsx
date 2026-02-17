@@ -2,8 +2,9 @@ import React , {useId} from 'react'
 
 //? component name must be with start with Capital
 
+//? props
 
-function InputBox({
+function InputBox({                 //? yahan pr ( { object } )
     label,
     amount,
     onAmountChange,
