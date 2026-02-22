@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       <h1>Learn Redux Tool kit</h1>
+      <h2>Redux Tool Kit is used as Context API</h2>
+      <h6>This is h6 heading </h6>
       <AddTodo />
       <Todos />
     </>
